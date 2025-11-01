@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "siteLedget",
+  title: "SiteLedger",
   description: "Manage construction sites, funds, and spendings ",
 };
 
